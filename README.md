@@ -49,9 +49,6 @@ Sales Data: Historical sales records (Date, Pizza Type, Quantity Sold, Price, Ca
 Ingredient Data: Ingredient requirements for each pizza type (Pizza Type, Ingredient, Quantity Needed)
 
 Run Locally
-Clone the project
-
-  git clone https://github.com/Vijay6383/Dominos---Predictive-Purchase-Order-System.git
 Install dependencies
 
   pip install prophet, statsmodels, scikit-learn, scipy, seaborn 
